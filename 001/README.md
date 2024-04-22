@@ -1,6 +1,6 @@
 # Welcome to day 01
 
-In this tutorial you will learn how to setup a backend project using `NPM` (node package manager).
+In this tutorial you will learn how to setup an express backend app/project using `NPM` (node package manager).
 
 **Step 1: Initializing the project**
 
@@ -35,7 +35,7 @@ tsc --init
 
 the above command will generate a new file called `tsconfig.json`
 
-set your `tsconfig.json` to the following.
+replace/update your `tsconfig.json` to the following.
 
 ```json
 {
@@ -67,6 +67,7 @@ mkdir src && touch src/server.ts  # create server.ts file
 this command will create a `server.ts` file inside the `src` folder.
 
 **Step 6: Creating express server**
+
 add the following code to the `src/server.ts` file
 
 ```javascript
