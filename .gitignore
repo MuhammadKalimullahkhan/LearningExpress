@@ -3,7 +3,10 @@ node_modules/
 
 # Environment variables
 .env
+
+# Files
 .gitignore
+package-lock.json
 
 # Logs
 logs
