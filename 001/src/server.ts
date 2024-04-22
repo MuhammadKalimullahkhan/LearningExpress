@@ -3,7 +3,8 @@
   This is simply a blue print of GET, POST, PUT & DELETE http methods.
 
   to better understand the HTTP Methods please read: 
-   - 001/notes/what_are_http_methods.md
+   - 001/notes/what_are_http_methods.md      OR
+   - https://github.com/MuhammadKalimullahkhan/LearningExpress/001/notes/what_are_http_methods.md
 
 */
 
